@@ -1,0 +1,1 @@
+<img src="{{asset('/storage/logo/log2.png')}}" class="block h-10 w-auto fill-current text-gray-600"/>
